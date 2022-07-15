@@ -1,0 +1,12 @@
+[submodule ".zplugins/zsh-auto-notify"]
+	path = .zplugins/zsh-auto-notify
+	url = https://github.com/MichaelAquilina/zsh-auto-notify
+[submodule ".zplugins/zsh-sudo"]
+	path = .zplugins/zsh-sudo
+	url = https://github.com/hcgraf/zsh-sudo
+[submodule ".zplugins/zsh-nvm"]
+	path = .zplugins/zsh-nvm
+	url = https://github.com/lukechilds/zsh-nvm
+[submodule ".zplugins/zsh-syntax-highlighting"]
+	path = .zplugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting
